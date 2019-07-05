@@ -1,0 +1,27 @@
+h1{
+    
+    color: #dd3131ec;
+    font-size: 40pt;
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+body{
+    background-color: orange;
+}
+img{
+    width: 360px;
+    height: 330px;
+    
+}
+button{
+    width: 100px;
+    height: 100px;
+color: white;
+background-color: peru;
+border-color: black;
+}
+p{
+    font-size: 20pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkred
+}
