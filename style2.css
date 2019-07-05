@@ -1,0 +1,58 @@
+body{
+    background-color: aquamarine;
+    background-image: url(cha-gengibre.jpg);
+    background-size: cover;
+    
+}
+button{
+    margin-right: 27px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-left: 40px;
+}
+h1{
+    margin-left: 550px;
+}
+p{
+    margin-left: 525px;
+}
+h2{
+    text-align: center;
+}
+.botão{
+    background-color: rgb(3, 169, 175);
+    
+}
+#entre{
+    background-color: rgba(157, 255, 0, 0.603);
+}
+
+.temperos{
+    background-color: rgb(255, 0, 0);
+}
+
+div{
+    background-color:
+    width: 100px;
+    background-image: url(id2_n_176433060c3341a4ea2202b60e38cc241-730x400.jpg);
+    background-size: 100%;
+}
+
+div h3:first-child{
+color: black;
+
+}
+div h3:last-child{
+    color: black;
+    
+}
+
+div h3:nth-child(2){
+    color: rgb(47, 0, 255);
+}
+
+.emailll{
+    
+    margin-left: 400px;
+}
